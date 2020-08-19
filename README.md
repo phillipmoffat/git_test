@@ -1,0 +1,1 @@
+This is Phillip's first Git project!
